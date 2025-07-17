@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.png" alt="PlayStore DB" width="500"> </p>
+  <img src="logo.png" alt="PlayStore DB" width="150"> </p>
 
 <h1 align="center">PlayStore DB 📈</h1>
 
