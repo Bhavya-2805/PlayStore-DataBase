@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="Logo.png" alt="PlayStore DB" width="500"> </p>
+
+<h1 align="center">PlayStore DB 📈</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/Language-SQL-4285F4?style=for-the-badge&logo=mysql" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/Normalization-BCNF%2F3NF-FFC107?style=for-the-badge" alt="Normalization Badge">
+</p>
+
+
 # 📱 Playstore DBMS Project
 
 This repository contains the complete database design and implementation of a Playstore-style platform built as part of our **Database Management Systems (DBMS)** course project.
